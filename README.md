@@ -36,9 +36,7 @@ To open a pull request
 - Offline status on signout
 - Online status on signup or signin
 
-## Some sneaky features 🤪:
-- Long press a message to delete it if its sent by the other user
-- Type the text you want to edit with and double a text to change it, works for both reciever and sender
+
 
 ## Packages Used:
 
@@ -53,14 +51,5 @@ To open a pull request
 - uuid: ^3.0.6
 - intl: ^0.17.0
 
-## Screenshots:
 
-<p>
-<img src="2.png" height=600 width=300>
-<img src="8.png" height=600 width=300>
-<img src="4.png" height=600 width=300>
-<img src="3.png" height=600 width=300>
-<img src="5.png" height=600 width=300>
-<img src="6.png" height=600 width=300>
-</p>
 
