@@ -1,12 +1,14 @@
 # Chat With Flutter And Firebase
 
-`Good Sample Project For Beginners`
+`Integrated FCM's cloud-based messaging infrastructure to handle real-time message exchange, enabling instant communication between users.
+Utilized FCM's reliable push notification system to deliver app updates, ensuring users receive timely information and feature enhancements.
+Leveraged FCM's cross-platform support and scalable architecture to handle message delivery across various devices, ensuring broad reach and consistent user experience.`
 
 A full stack real time chatting app with Flutter and Firebase CRUD operaions.
 
 ## Developer:
 
-<a href="https://github.com/Umar-Waseem">Umar Waseem</a>
+PUSHKAR SINGH
 
 ## Guidelines To Contribute:
 
